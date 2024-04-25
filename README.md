@@ -8,13 +8,13 @@ Dataset we used in the process is saved by "__golddaily.csv__". It has daily gol
 
 ## Libraries used
 
-numpy 
-pandas
-seaborn
-matplotlib
-sklearn(model_selection, ensemble, metrics)
-pickle
-streamlit
+1. numpy 
+2. pandas
+3. seaborn
+4. matplotlib
+5. sklearn(model_selection, ensemble, metrics)
+6. pickle
+7. streamlit
 
 ## Data preprocessing
 
