@@ -34,11 +34,11 @@ we would repeat the same for Random forest, Xgboost, Adaboost, and gradient boos
 
 for SVM we would tune data on basis of hyperparameter (hyperparameter tuning). This helps in selection best feature and handle data imbalance. then we would print the metrics result and visualise data.
 
-##result and conclusion
+## result and conclusion
 
 as all models have been trained we would print combined metrics of all together and compare the accuracy of various models. we would then visualise all the models for a better explanations of insight
 
-##Deployment
+## Deployment
 
 we would deploy the model using streamlit. As you can see we had earlier made pickle file for each model where their individual predictions would be save. we ould import all the pickle files. we would then create a frame work for our show website. Then we have to connect frontend characters and input variables with backend attributes in order to make website fully functional. we would be giving dropdown menu for allowing user to choose his/her model for prediction. 
 
