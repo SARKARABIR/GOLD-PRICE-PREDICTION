@@ -9,11 +9,11 @@ Dataset we used in the process is saved by "__golddaily.csv__". It has daily gol
 ## Libraries used
 
 -numpy 
--pandas
--seaborn
--matplotlib
--sklearn
++pandas
++seaborn
++matplotlib
++sklearn
  -model_selection 
  -ensemble
- -metrics
- -pickle
+ -metrics 
++pickle
